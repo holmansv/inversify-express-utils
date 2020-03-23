@@ -7,7 +7,7 @@
         "test/**/*.js": true,
         "**/*.js.map": true,
         "**/es": true,
-        "**/lib": true,
+        "**/lib": false,
         "**/dts": true,
         "**/coverage": true,
         "**/dist": true,
